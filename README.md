@@ -12,7 +12,8 @@ Building small things on the web and experimenting with AI-assisted development.
 
 | Project | Description |
 |---------|-------------|
-| [hello-world](https://github.com/facebook-ship-it/hello-world) | Starter repository |
+| [notes-api](https://github.com/facebook-ship-it/notes-api) | In-memory notes CRUD API on the JDK HttpServer, single Java file |
+| [quiz-game](https://github.com/facebook-ship-it/quiz-game) | Rust command-line quiz with a score at the end |
 
 ## GitHub stats
 
